@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SuzyStar/static/css/main.ee088f95.chunk.css",
-    "main.js": "/SuzyStar/static/js/main.147ebac5.chunk.js",
-    "main.js.map": "/SuzyStar/static/js/main.147ebac5.chunk.js.map",
+    "main.js": "/SuzyStar/static/js/main.76b15ea4.chunk.js",
+    "main.js.map": "/SuzyStar/static/js/main.76b15ea4.chunk.js.map",
     "runtime-main.js": "/SuzyStar/static/js/runtime-main.d8d8783f.js",
     "runtime-main.js.map": "/SuzyStar/static/js/runtime-main.d8d8783f.js.map",
     "static/css/2.06492505.chunk.css": "/SuzyStar/static/css/2.06492505.chunk.css",
     "static/js/2.1642fa85.chunk.js": "/SuzyStar/static/js/2.1642fa85.chunk.js",
     "static/js/2.1642fa85.chunk.js.map": "/SuzyStar/static/js/2.1642fa85.chunk.js.map",
     "index.html": "/SuzyStar/index.html",
-    "precache-manifest.51f9d939f41b3d2bfd84b03d093ed4e0.js": "/SuzyStar/precache-manifest.51f9d939f41b3d2bfd84b03d093ed4e0.js",
+    "precache-manifest.f4fea38b40a7ab380a86e59a62a3c3fb.js": "/SuzyStar/precache-manifest.f4fea38b40a7ab380a86e59a62a3c3fb.js",
     "service-worker.js": "/SuzyStar/service-worker.js",
     "static/css/2.06492505.chunk.css.map": "/SuzyStar/static/css/2.06492505.chunk.css.map",
     "static/css/main.ee088f95.chunk.css.map": "/SuzyStar/static/css/main.ee088f95.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.06492505.chunk.css",
     "static/js/2.1642fa85.chunk.js",
     "static/css/main.ee088f95.chunk.css",
-    "static/js/main.147ebac5.chunk.js"
+    "static/js/main.76b15ea4.chunk.js"
   ]
 }

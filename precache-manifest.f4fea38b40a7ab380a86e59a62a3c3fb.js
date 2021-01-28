@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99f996e0af4d8d6ef451ddcd1787f803",
+    "revision": "134ec04502308e005b2a3a78b3e0bd94",
     "url": "/SuzyStar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuzyStar/static/css/2.06492505.chunk.css"
   },
   {
-    "revision": "2cdd6d54efac1669d62f",
+    "revision": "df1d5e3145e86da209fd",
     "url": "/SuzyStar/static/css/main.ee088f95.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuzyStar/static/js/2.1642fa85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cdd6d54efac1669d62f",
-    "url": "/SuzyStar/static/js/main.147ebac5.chunk.js"
+    "revision": "df1d5e3145e86da209fd",
+    "url": "/SuzyStar/static/js/main.76b15ea4.chunk.js"
   },
   {
     "revision": "debb20f31802d2e6ecf1",
