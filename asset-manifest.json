@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SuzyStar/static/css/main.ee088f95.chunk.css",
+    "main.js": "/SuzyStar/static/js/main.27eccb50.chunk.js",
+    "main.js.map": "/SuzyStar/static/js/main.27eccb50.chunk.js.map",
+    "runtime-main.js": "/SuzyStar/static/js/runtime-main.d8d8783f.js",
+    "runtime-main.js.map": "/SuzyStar/static/js/runtime-main.d8d8783f.js.map",
+    "static/css/2.06492505.chunk.css": "/SuzyStar/static/css/2.06492505.chunk.css",
+    "static/js/2.1642fa85.chunk.js": "/SuzyStar/static/js/2.1642fa85.chunk.js",
+    "static/js/2.1642fa85.chunk.js.map": "/SuzyStar/static/js/2.1642fa85.chunk.js.map",
+    "index.html": "/SuzyStar/index.html",
+    "precache-manifest.3533f7ccf66a7fbf227e7d809b32f3af.js": "/SuzyStar/precache-manifest.3533f7ccf66a7fbf227e7d809b32f3af.js",
+    "service-worker.js": "/SuzyStar/service-worker.js",
+    "static/css/2.06492505.chunk.css.map": "/SuzyStar/static/css/2.06492505.chunk.css.map",
+    "static/css/main.ee088f95.chunk.css.map": "/SuzyStar/static/css/main.ee088f95.chunk.css.map",
+    "static/js/2.1642fa85.chunk.js.LICENSE.txt": "/SuzyStar/static/js/2.1642fa85.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/SuzyStar/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8d8783f.js",
+    "static/css/2.06492505.chunk.css",
+    "static/js/2.1642fa85.chunk.js",
+    "static/css/main.ee088f95.chunk.css",
+    "static/js/main.27eccb50.chunk.js"
+  ]
+}
